@@ -3,9 +3,7 @@ FROM node:22-alpine as build-stage
 WORKDIR /app
 
 COPY package*.json ./
-COPY yarn.lock ./
-RUN npm i yarn
-RUN yarn
+RUN npm install
 COPY . .
 
 RUN npm run build
