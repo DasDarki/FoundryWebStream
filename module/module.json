@@ -26,9 +26,9 @@
   ],
   "styles": [
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/DasDarki/FoundryWebStream",
+  "manifest": "https://github.com/DasDarki/FoundryWebStream/releases/latest/download/module.json",
+  "download": "https://github.com/DasDarki/FoundryWebStream/releases/latest/download/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": []
