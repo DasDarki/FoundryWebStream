@@ -1,0 +1,35 @@
+{
+  "id": "foundry-stream",
+  "title": "FoundryVTT Stream",
+  "description": "FoundryVTT Stream allows you to stream some FoundryVTT actions and information to an external website for mobile player",
+  "version": "1.0.0",
+  "library": "false",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 13,
+    "maximum": 13
+  },
+  "authors": [
+    {
+      "name": "DasDarki",
+      "url": "https://github.com/DasDarki"
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "esmodules": [
+    "dist/module.esm.min.js"
+  ],
+  "scripts": [
+  ],
+  "styles": [
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": []
+}
